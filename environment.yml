@@ -1,0 +1,22 @@
+name: my_env
+channels:
+- defaults
+- conda-forge
+dependencies:
+- python=3.10
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- scikit-learn
+- tensorflow
+- pytorch
+- jupyter
+- ipykernel
+- scipy
+- eikon
+- ipython
+- pytables
+- keyring
+- statsmodels
+
